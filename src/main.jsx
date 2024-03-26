@@ -15,6 +15,7 @@ import Contact from './Components/Root/Contact/Contact';
 import About from './Components/Root/About/About';
 import ListedBooks from './Components/Root/ListedBooks/ListedBooks';
 import Pages from './Components/Root/Pages/Pages';
+import Bookdetails from './Components/Root/Bookdetails/Bookdetails';
 
 
 const router = createBrowserRouter([
@@ -55,6 +56,14 @@ element: <ListedBooks></ListedBooks>
 
 path:'/pagestoread',
 element: <Pages> </Pages>
+
+ },
+
+ {
+
+ path: '/book/:id',
+ element: <Bookdetails> </Bookdetails>,
+ loader: ()=> fetch('/Books.json')
 
  }
 

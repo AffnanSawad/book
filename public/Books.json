@@ -1,6 +1,6 @@
 [
     {
-      "bookId": 1,
+      "id": 1,
       "bookName": "The Silent Patient",
       "author": "Alex Michaelides",
       "image": "https://i.ibb.co/w7vfGTj/m010t0661-c-world-book-day-13mar23.jpg",
@@ -13,7 +13,7 @@
       "yearOfPublishing": 2019
     },
     {
-      "bookId": 2,
+      "id": 2,
       "bookName": "Educated",
       "author": "Tara Westover",
       "image": "https://i.ibb.co/ry5LwGh/2872.jpg",
@@ -26,7 +26,7 @@
       "yearOfPublishing": 2018
     },
     {
-      "bookId": 3,
+      "id": 3,
       "bookName": "The Night Circus",
       "author": "Erin Morgenstern",
       "image": "https://i.ibb.co/4JQTNQ1/world-book-fun-coverbook-06.jpg",
@@ -39,7 +39,7 @@
       "yearOfPublishing": 2011
     },
     {
-      "bookId": 4,
+      "id": 4,
       "bookName": "Sapiens: A Brief History of Humankind",
       "author": "Yuval Noah Harari",
       "image": "https://i.ibb.co/w7vfGTj/m010t0661-c-world-book-day-13mar23.jpg",
@@ -52,7 +52,7 @@
       "yearOfPublishing": 2014
     },
     {
-      "bookId": 5,
+      "id": 5,
       "bookName": "The Girl on the Train",
       "author": "Paula Hawkins",
       "image": "https://i.ibb.co/h8vdWHm/m034t0017-book-day-15mar23.jpg",
@@ -65,7 +65,7 @@
       "yearOfPublishing": 2015
     },
     {
-      "bookId": 6,
+      "id": 6,
       "bookName": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "image": "https://i.ibb.co/w7vfGTj/m010t0661-c-world-book-day-13mar23.jpg",

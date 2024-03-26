@@ -6,7 +6,8 @@ import { RiPagesLine } from "react-icons/ri";
 
 const Book = ( {book} ) => {
 
-const {image,bookName, author,review,totalPages,rating,category,publisher,yearOfPublishing   } = book ;
+const {id,image,bookName, author,review,totalPages,rating,category,publisher,yearOfPublishing   } = book ;
+
 
 
     return (
@@ -48,8 +49,12 @@ const {image,bookName, author,review,totalPages,rating,category,publisher,yearOf
 
 <div className="max-w-md ml-4 ">
 
-<button className="btn btn-primary ">View Details</button>
+ <Link to={`/book/${id} `} >
+ 
+ <button className="btn btn-primary ">View Details</button>
 
+ 
+ </Link>
 
 </div>
 
