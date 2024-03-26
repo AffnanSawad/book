@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/w7vfGTj/m010t0661-c-world-book-day-13mar23.jpg",
+      "review": "A gripping psychological thriller that keeps you on the edge of your seat until the very end. The twists and turns are masterfully executed, leaving you questioning everything you thought you knew.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Mystery",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co/ry5LwGh/2872.jpg",
+      "review": "A powerful memoir that takes you on a journey of resilience and self-discovery. Tara's story is both heartbreaking and inspiring, reminding us of the importance of education and the strength of the human spirit.",
+      "totalPages": 334,
+      "rating": 4.7,
+      "category": "Memoir",
+      "tags": ["Biography", "Education"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "image": "https://i.ibb.co/4JQTNQ1/world-book-fun-coverbook-06.jpg",
+      "review": "A magical and enchanting tale that transports you to a world of wonder and mystery. Morgenstern's prose is lyrical, and her imagination knows no bounds. The Night Circus is a mesmerizing experience from beginning to end.",
+      "totalPages": 400,
+      "rating": 4.6,
+      "category": "Fantasy",
+      "tags": ["Magic", "Romance"],
+      "publisher": "Anchor Books",
+      "yearOfPublishing": 2011
+    },
+    {
+      "bookId": 4,
+      "bookName": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "image": "https://i.ibb.co/w7vfGTj/m010t0661-c-world-book-day-13mar23.jpg",
+      "review": "A thought-provoking exploration of the history of Homo sapiens that challenges conventional wisdom and prompts reflection on the nature of humanity. Harari's writing is accessible yet profound, making complex ideas understandable to all.",
+      "totalPages": 464,
+      "rating": 4.8,
+      "category": "Non-Fiction",
+      "tags": ["History", "Anthropology"],
+      "publisher": "HarperCollins",
+      "yearOfPublishing": 2014
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "image": "https://i.ibb.co/h8vdWHm/m034t0017-book-day-15mar23.jpg",
+      "review": "A thrilling ride filled with unexpected twists and turns. Hawkins keeps you guessing until the very end, and just when you think you have it all figured out, she throws another curveball. A must-read for fans of suspense.",
+      "totalPages": 336,
+      "rating": 4.4,
+      "category": "Thriller",
+      "tags": ["Mystery", "Psychological"],
+      "publisher": "Riverhead Books",
+      "yearOfPublishing": 2015
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/w7vfGTj/m010t0661-c-world-book-day-13mar23.jpg",
+      "review": "A timeless classic that captures the essence of the Jazz Age with its vivid characters and evocative prose. Fitzgerald's portrayal of love, wealth, and the American Dream is as relevant today as it was nearly a century ago.",
+      "totalPages": 180,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    }
+  ]
+  
