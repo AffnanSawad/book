@@ -1,6 +1,6 @@
 import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid } from 'recharts';
 
-const Pages = () => {
+const Chart = () => {
 
     const colors = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', 'red', 'pink'];
 
@@ -80,6 +80,6 @@ const Pages = () => {
       </BarChart>
     );
 };
-Pages.demoUrl = 'https://codesandbox.io/s/bar-chart-with-customized-shape-dusth';
+Chart.demoUrl = 'https://codesandbox.io/s/bar-chart-with-customized-shape-dusth';
 
-export default Pages;
+export default Chart;
